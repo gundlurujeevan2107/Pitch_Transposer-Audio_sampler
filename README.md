@@ -1,4 +1,4 @@
-# Pitch-Shifting and Instrument Synthesis  
+# Pitch Transposer & Audio Sampler  
 
 ## Overview  
 Pitch-shifting is a technique used to modify the perceived pitch of an audio signal **without altering its tempo**. Applications range from **music production** to **instrument synthesis**, allowing users to create an instrument from any sound.  
@@ -23,5 +23,5 @@ By achieving these goals, the system serves as both a **learning tool** and a **
 ## **Installation**  
 Clone the repository:  
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/gundlurujeevan2107/Pitch_Transposer-Audio_sampler
+cd Pitch_Transposer-Audio_sampler
