@@ -23,5 +23,5 @@ By achieving these goals, the system serves as both a **learning tool** and a **
 ## **Installation**  
 Clone the repository:  
 ```bash
-git clone https://github.com/gundlurujeevan2107/Pitch_Transposer-Audio_sampler
+git clone github.com/gundlurujeevan2107/Pitch_Transposer-Audio_sampler
 cd Pitch_Transposer-Audio_sampler
